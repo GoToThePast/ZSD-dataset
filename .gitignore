@@ -1,7 +1,17 @@
-coco/
-!coco/ZSDAnnotations
-dior/
-!dior/ZSDAnnotations
-VOCdevkit/
-!VOCdevkit/ZSDAnnotations
+# 忽略 coco 文件夹中的所有内容
+/coco/*
+# 但保留 coco/ZSDAnnotations 及其内容
+!/coco/ZSDAnnotations/
+!/coco/ZSDAnnotations/**
+/coco/ZSDAnnotations/**/未压缩json/
+
+/dior/*
+!/dior/ZSDAnnotations/
+!/dior/ZSDAnnotations/**
+/dior/ZSDAnnotations/**/未压缩json/
+
+VOCdevkit/*
+!VOCdevkit/ZSDAnnotations/
+!VOCdevkit/ZSDAnnotations/**
+/VOCdevkit/ZSDAnnotations/**/未压缩json/
 zip/

@@ -1,0 +1,16 @@
+golffield
+Expressway-toll-station
+vehicle
+trainstation
+chimney
+storagetank
+ship
+harbor
+airplane
+tenniscourt
+dam
+Expressway-Service-area
+stadium
+baseballfield
+bridge
+overpass
