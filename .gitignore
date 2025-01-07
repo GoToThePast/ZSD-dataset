@@ -4,7 +4,7 @@
 !/coco/ZSDAnnotations/
 !/coco/ZSDAnnotations/**
 /coco/ZSDAnnotations/**/未压缩json/
-
+/coco/ZSDAnnotations/**/train_coco_seen_all.json
 /dior/*
 !/dior/ZSDAnnotations/
 !/dior/ZSDAnnotations/**
