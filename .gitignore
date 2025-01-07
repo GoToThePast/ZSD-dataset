@@ -1,0 +1,7 @@
+coco/
+!coco/ZSDAnnotations
+dior/
+!dior/ZSDAnnotations
+VOCdevkit/
+!VOCdevkit/ZSDAnnotations
+zip/
